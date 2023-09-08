@@ -1,8 +1,9 @@
-package tutorials_point_jUnit;
+package tutorials_point_jUnit.example1_TestRunner;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
+import tutorials_point_jUnit.example1_TestRunner.TestJUnit;
 
 public class TestRunner {
     public static void main(String[] args) {

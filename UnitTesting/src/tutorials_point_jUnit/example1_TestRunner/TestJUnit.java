@@ -1,4 +1,4 @@
-package tutorials_point_jUnit;
+package tutorials_point_jUnit.example1_TestRunner;
 
 import org.junit.Test;
 
